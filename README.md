@@ -4,4 +4,4 @@ This is my profile card which I made keeping the design very minimalistic.
 You can view the website here :point_right:: 
 https://adityaj07.github.io/Project-2-Profile-Card/
 
-(Updates Soon)
+
